@@ -1,0 +1,13 @@
+<a href="https://platnosci.pwmumble.com/#AddMoneyTo:4610390326a4406c89a0a1569d91bd97" title="Upload funds"><img src="https://platnosci.pwmumble.com/payments.pay2.pl_PL.4610390326a4406c89a0a1569d91bd97.png" alt="Upload funds" border="0" /></a>
+
+@up doladuj konto.
+
+ID serwera:	351
+Adres serwera:	s3.pwmumble.com
+Port serwera:	1126
+Liczba slotów:	30
+Data wygasniecia:	2012-08-01 23:59:59
+Zaloguj sie na serwer:	mumble://s3.pwmumble.com:1126?version=1.2.3
+Zaloguj sie jako Admin:	mumble://SuperUser@s3.pwmumble.com:1126?version=1.2.3
+Link do panelu administratora:	http://webpanel.pwmumble.com/instance/351/config
+Haslo superuzytkownika:	ME5B16E81BA544821
